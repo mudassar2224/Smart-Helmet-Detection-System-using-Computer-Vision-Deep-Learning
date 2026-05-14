@@ -275,7 +275,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 👤 Author
 
-**Muhmmad Mudassar Fluter Developer And Ml Enginner **
+**Muhmmad Mudassar Flutter Developer And ML Enginner **
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Maliktg5-FFD21E?style=for-the-badge)](https://huggingface.co/Maliktg5)
 [![Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/15uGyd72UBFkgHZAtbmllrVtsFPxPCbt_?usp=sharing)
