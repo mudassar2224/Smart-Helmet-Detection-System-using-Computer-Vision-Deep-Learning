@@ -24,13 +24,16 @@
 <div align="center">
 
 ### ✅ Image Detection — Helmet Detected (100% Compliance)
-![Helmet Detected](demo_helmet.png)
+<img width="1366" height="759" alt="demo_helmet" src="https://github.com/user-attachments/assets/54d31339-1b4c-4403-9056-cb943d53732b" />
+
 
 ### 🎥 Video Detection — Real-Time Processing
-![Video Detection](demo_video.png)
+<img width="1346" height="689" alt="demo_video" src="https://github.com/user-attachments/assets/c4363f94-69ff-4e11-bc8d-9a9c60955227" />
+
 
 ### 🔴 Image Detection — No Helmet Detected
-![No Helmet](demo_result.png)
+<img width="480" height="270" alt="demo_result" src="https://github.com/user-attachments/assets/29d8dd10-d536-4695-be0f-8250e4c6686a" />
+
 
 </div>
 
