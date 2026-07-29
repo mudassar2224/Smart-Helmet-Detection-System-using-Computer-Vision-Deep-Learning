@@ -1,5 +1,6 @@
 <div align="center">
-![Uploading image.png…]()
+<img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/28fb1773-5c20-4ce5-8e30-3eefc68d6a5a" />
+
 
 # 🏍️ Smart Helmet Detection System
 
