@@ -1,4 +1,8 @@
+Here is the updated **full code** with tech icons (TensorFlow, PyTorch, Python, OpenCV, VS Code, GitHub, etc.) added into both the **Tech Stack section** and the **Author/Footer section**, along with animated dividers and sticker logos.
 
+You can copy and paste this code block directly into your `README.md` editor:
+
+```markdown
 <div align="center">
 
   <!-- Animated Typing SVG Header -->
@@ -307,7 +311,7 @@ This project is licensed under the **MIT License** — see [LICENSE](https://www
 
 ## 👤 Author
 
-**Muhammad Mudassar**
+### **Muhammad Mudassar**
 
 *Flutter Developer & ML Engineer*
 
